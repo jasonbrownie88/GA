@@ -1,0 +1,81 @@
+/*
+
+Colours:
+
+Light yellow:   #FFF653;
+Mid yellow:     #CEC441;
+
+Light grey:     #C6C6C6;
+Mid grey:       #AAAAAA;
+Dark grey:      #999999;
+
+*/
+
+/*******************
+  BASE SETUP
+*******************/
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: " "; 
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.container {
+	padding-left: 15px;
+	padding-top:15px;
+  	height: 300;
+  	width: 100%;
+ 	background-color: black;
+ 
+}
+
+header {
+	padding: 20px;
+	padding-bottom: 30px
+
+}
+
+h1 {
+	color:#FFF653; 
+	font-family:Merriweather;
+	font-size:20px;
+	
+}
+.nav_bar {
+	float: right;
+	position: relative;
+	padding-right: 20px;
+}
+
+h2 {
+	color: white; 
+	font-size: 20px;
+	display: inline-block;
+}
+
+.caps-white {
+	font-family:Oswald;
+	text-transform: uppercase;
+	padding: 20px;
+	color: white;
+	text-decoration: none;
+}
+a { 
+	color:white;
+	padding:10px;
+	text-decoration: none;
+	font-family:Source Sans Pro; 
+	font-weight: 400; 
+
+}
+
+}
