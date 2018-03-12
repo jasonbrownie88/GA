@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"text-",
+				"text-decoration-color"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"borde",
+				"border-bottom-width"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border-color",
+				"border-bottom-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"paddingto",
+				"padding-bottom"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font-sie",
+				"font-size-adjust"
+			],
+			[
+				"cnt",
+				"container"
+			],
+			[
+				"pot",
+				"position"
+			],
+			[
+				"be",
+				"Benefits"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"H",
+				"H1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2214,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "index.html"
+			}
+		},
+		{
+			"file": "/Users/Brwn/Documents/Portfolio + Personal/GA/Archive/Relax-r/Relaxr-code/css/reset.css",
+			"settings":
+			{
+				"buffer_size": 1092,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 2815,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "styles.css"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "install package",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install packag",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Brwn/Documents/Portfolio + Personal/GA/startup_matchmaker/index.html",
+		"/Users/Brwn/Documents/Portfolio + Personal/GA/Relax-r/Relaxr-code/index.html",
+		"/Users/Brwn/Documents/Portfolio + Personal/GA/w4/assignment-files/README.md",
+		"/Users/Brwn/Downloads/form-demo-starter/index.html",
+		"/Users/Brwn/Desktop/trDB25DX.json",
+		"/Users/Brwn/Documents/Portfolio + Personal/GA/normalize-vs-reset/css/reset.css",
+		"/Users/Brwn/Desktop/GA/Relax-r/Relaxr-code/index.html",
+		"/Users/Brwn/Desktop/GA/Layouts/index.html",
+		"/Users/Brwn/Desktop/GA/Layouts/styles.css",
+		"/Users/Brwn/Desktop/GA/Relax-r/Relaxr-code/css/style.css",
+		"/Users/Brwn/Desktop/GA/Relax-r/Relaxr-code/design_file.txt",
+		"/Users/Brwn/Desktop/GA/GA-Relaxer-W2-tASK assignment-files/Relaxr-landing/css/style.css",
+		"/Users/Brwn/Desktop/GA/GA-Relaxer-W2-tASK assignment-files/Relaxr-landing/index.html",
+		"/Users/Brwn/Desktop/GA/GA-Relaxer-W2-tASK assignment-files/starter_code/design_file.txt",
+		"/Users/Brwn/Desktop/GA/Portfolio/About.html",
+		"/Users/Brwn/Desktop/GA/GA-Relaxer-W2-tASK assignment-files/starter_code/css/style.css",
+		"/Users/Brwn/Downloads/normalize-vs-reset/css/styles.ss",
+		"/Users/Brwn/Desktop/GA/ga-assignment-01/portfolio.html",
+		"/Users/Brwn/Desktop/GA/Portfolio/styles.css",
+		"/Users/Brwn/Downloads/cookie_recipe_solution/index.html",
+		"/Users/Brwn/Desktop/cookie_recipe/index.html",
+		"/Users/Brwn/Downloads/phone-back-connected-with-a-cable.svg",
+		"/Users/Brwn/Downloads/cookie_recipe/index.html",
+		"/Users/Brwn/Desktop/GA/ga_press_release/index.html",
+		"/Users/Brwn/Desktop/Sketch packs/pocket-react/React Native/react-native-pocket/src/headers/AccountHeader.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Brwn/Documents/Portfolio + Personal/GA/Archive/Relax-r/Relaxr-code/css/reset.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"auto_name": "styles.css",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "StartupMatchmaker.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
